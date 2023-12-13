@@ -1,0 +1,6 @@
+Escrever uma função que analise uma string de entrada e devolva “True” para o caso da string estar balanceada e “False” o contrário. Uma string é considerada balanceada, quando os caracteres de chaves, colchetes e parênteses, possui seu par de fechamento. Por exemplo:
+•	“{}[] ()”: Balanceada;
+•	“{}[] )”: Desbalanceada, falta o “(” para fechar par
+Exemplo de funcionamento da função:
+String de entrada: “[()]xxxx()”
+Resposta de saída: True.
