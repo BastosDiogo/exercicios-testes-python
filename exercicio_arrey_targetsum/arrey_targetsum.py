@@ -21,3 +21,6 @@ _agrupamentos = 3
 _targerSum = 0
 resutado = arrey_targersum(lista_teste, _agrupamentos, _targerSum)
 print(resutado)
+
+# Ref: https://www.uel.br/projetos/matessencial/basico/medio/combinat.html#:~:text=Combina%C3%A7%C3%A3o%20simples%3A%20N%C3%A3o%20ocorre%20a,(m%E2%88%92p)!
+# Ref_combinacoes: https://www.acervolima.com.br/2020/12/permutacao-e-combinacao-em-python.html
