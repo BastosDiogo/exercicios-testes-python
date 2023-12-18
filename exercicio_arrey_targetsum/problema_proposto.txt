@@ -1,0 +1,8 @@
+Escreva uma função que recebe um array não vazio de inteiros distintos e um inteiro representando uma soma alvo. Sua função deve encontrar todas as combinações de três números do array que somam a soma alvo e retornar um array bi-dimensional de todas as combinações. Os números em cada combinação devem estar ordenados de forma crescente e os arrays em si também deve estar ordenados de forma crescente de acordo com os números que eeles contém.
+
+Exemplo de entrada:
+array = [ 12, 3, 1, 2, -6, 5, -8, 6]
+targetSum = 0
+
+Exemplo de saída:
+[[-8,2,6], [-8,3,5], [-6,1,5]]
