@@ -56,5 +56,3 @@ class LancarmentoDado():
         erros = {'0': 'O valor alvo deve ser diferente de zero.'}
         return erros[tipo_mensagem]
 
-x = LancarmentoDado()
-print(x.combinacoes_possiveis_para_um_dado_valor(12))
